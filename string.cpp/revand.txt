@@ -1,0 +1,10 @@
+ini adalah list yang akan dibaca oleh program cpp.
+jadi ini berisi list nama sebuah karakter game.
+
+data
+no nama
+1  eve
+2  aerith
+3  ethan
+4  chris
+5  tifa

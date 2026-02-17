@@ -1,0 +1,2 @@
+menuliskan baris pada file ke 1
+10
